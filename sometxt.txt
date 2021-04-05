@@ -2,4 +2,5 @@ Esta es la historia de Angel
 Nacio en Colombia
 Hablemos de su vida:
 Esta aprendiendo git
+Acabo de hacer su orimer checkout
 :D
