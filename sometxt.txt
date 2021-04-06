@@ -1,6 +1,9 @@
 Esta es la historia de Angel
+This is a new person, trials for new repo upload.
 Nacio en Colombia
 Hablemos de su vida:
 Esta aprendiendo git
 Acabo de hacer su orimer checkout
 :D
+
+More trials. 
